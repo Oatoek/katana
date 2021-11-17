@@ -18,7 +18,7 @@ Nếu đồng ý với các điều khoản, bạn bấm vào ô chọn và sau 
 
 Vậy là bạn đã đăng nhập xong!
 
-## Một số điểm cơ bản khác
+## Một số khái niệm cơ bản khác
 
 ### Kiểm tra ví
 
@@ -54,6 +54,19 @@ Nguồn thanh khoản là một nguồn quỹ được khoá trong một hợp �
 
 Khi cung cấp thanh khoản, bạn sẽ cung cấp 2 token với một giá trị bằng nhau vào quỹ. Ví dụ giá trị hiện tại của ETH là $4000 và AXS là $100, và bạn muốn cung cấp 1 ETH vào cặp ETH-AXS của quỹ, như thế bạn cần cung cấp 40 AXS để tạo thành một cặp.
 
-#### Cặp token
+#### Tạo cặp token
 
-Là một&#x20;
+Nhà cung cấp thanh khoản thêm một lượng bằng nhau của một cặp token vào quỹ để làm cho nó tăng thanh khoản
+
+#### Phí
+
+Đổi lại, nhà thanh khoản sẽ được hưởng phí từ các giao dịch trao đổi trong quỹ, tương ứng theo tỉ lệ đóng góp của người đó trong quỹ.
+
+#### Các cặp token được hỗ trợ trên Katana:
+
+* AXS/ETH
+* SLP/ETH
+* ETH/USDC
+* RON/ETH (tương lai)
+
+Bạn đã có thể sử dụng Katana với những khái niệm cơ bản như trên rồi đó!
